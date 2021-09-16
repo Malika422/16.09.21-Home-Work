@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+}
+.CodeImg {
+  margin-top: 1px;
+  width: 150px;
+  height: 6px;
+  margin-left: 10px;
+}
+
+.codes {
+  padding-top: 80px;
+}
+.item {
+  display: flex;
+}
+.desc img {
+  margin: 30px 5px 6px 20px; 
+  width: 189px;
+  height: 166px;
+}
+.item-text {
+  margin-left: 60px;
+  margin-top: 7px;
+}
+.item-text p {
+  width: 362px;
+  padding: 8px 40px 39px 1px;
+}
+.item-text h4 {
+  
+  margin-top: 10px;
+  width: 240px;
+  font-weight: bold;
+}
+.left {
+  height: 289px;
+  width: 678px;
+}
+
